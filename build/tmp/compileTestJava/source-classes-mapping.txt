@@ -1,0 +1,26 @@
+activities/AlarmaSimpleGratis/CreateAlarmScreen.java
+ activities.AlarmaSimpleGratis.CreateAlarmScreen
+FactoryDevices/IDevice.java
+ FactoryDevices.IDevice
+Session/Session.java
+ Session.Session
+activities/AlarmaSimpleGratis/MainScreen.java
+ activities.AlarmaSimpleGratis.MainScreen
+FactoryDevices/IOs.java
+ FactoryDevices.IOs
+controlAppium/Control.java
+ controlAppium.Control
+controlAppium/Label.java
+ controlAppium.Label
+controlAppium/Button.java
+ controlAppium.Button
+FactoryDevices/FactoryDevice.java
+ FactoryDevices.FactoryDevice
+ FactoryDevices.FactoryDevice$1
+ FactoryDevices.FactoryDevice$DeviceType
+controlAppium/TextBox.java
+ controlAppium.TextBox
+FactoryDevices/Android.java
+ FactoryDevices.Android
+TestCase/AlarmaSimpleTest.java
+ TestCase.AlarmaSimpleTest
