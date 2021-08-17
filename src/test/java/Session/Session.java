@@ -10,7 +10,7 @@ public class Session {
     private AppiumDriver driver;
     // tener un constructor privado
     private Session() throws MalformedURLException {
-        //driver= FactoryDevice.make(FactoryDevice.DeviceType.ANDROID).create();
+       //driver= FactoryDevice.make(FactoryDevice.DeviceType.ANDROID).create();
         driver= FactoryDevice.make(FactoryDevice.DeviceType.ANDROID2).create();
 
     }
